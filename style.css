@@ -1,0 +1,32 @@
+.body_background {
+    background-image: url("87716423.jpg.crdownload");
+    background-size: cover;
+    background-position: center;
+    
+
+}
+body{
+    cursor: pointer ;
+}
+h1 {
+    font-size:80px;
+    font-family:fantasy
+}
+#myCanvas
+{
+border-width:20px;
+border-color:firebrick;
+border-style: groove;
+background-color: aliceblue;
+}
+button {
+    background-color: cadetblue;
+    border: none;
+    color:white;
+    padding: 10px 42px;
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+input{
+    margin-right: 20px;
+}
